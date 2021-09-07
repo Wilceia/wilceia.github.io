@@ -1,0 +1,13 @@
+body {
+    background-image: url(./kawai.jpg);
+    width: 100%;
+}
+
+.foto {
+    margin: 0;
+       position: absolute;
+       top: 40%;
+       left: 50%;
+       margin-right: -50%;
+       transform: translate(-50%, -50%)
+}
